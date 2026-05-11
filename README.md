@@ -21,16 +21,20 @@ Python is a high-level, interpreted, dynamically-typed language known for its cl
 
 ## Folder Structure
 
-| Folder | Topics Covered |
-|--------|---------------|
-| `01_basics/` | Variables, keywords, strings, numbers, type casting, formatting |
-| `02_data_types/` | Lists, tuples, sets, dictionaries, object & data structures |
-| `03_operators/` | Comparison, assignment, identity, membership operators |
-| `04_control_flow/` | if/elif/else, for/while loops, break/continue |
-| `05_functions/` | Functions, methods, lambda, built-ins |
-| `06_oop/` | Classes, inheritance, encapsulation, polymorphism |
-| `07_modules/` | import, packages, file handling, exceptions |
-| `08_advanced/` | Comprehensions, decorators, generators |
+| Folder | File | Course Lessons Covered |
+|--------|------|------------------------|
+| `00_intro/` | `python_intro_and_features.py` | Python Introduction, Python Features |
+| `00_intro/` | `SETUP.md` | Installation: Python & pip, Installation: IDE |
+| `01_basics/` | `variables_and_keywords.py` | Variable Assignment, Python Keywords |
+| `01_basics/` | `strings_numbers_types.py` | Strings, Numbers, Type Casting, String Formatting |
+| `02_data_types/` | `object_and_data_structures.py` | Object & Data Structures 1 & 2 |
+| `02_data_types/` | `collections.py` | Lists, Tuples, Sets, Dictionaries |
+| `03_operators/` | `operators.py` | Comparison, Assignment, Identity, Membership Operators |
+| `04_control_flow/` | `control_flow.py` | Statements & Conditional Flow, Loops 1 & 2 |
+| `05_functions/` | `functions.py` | Functions & Methods 1 & 2, Lambda, Built-in Functions |
+| `06_oop/` | `oop.py` | Object Oriented Programming |
+| `07_modules/` | `modules_files_exceptions.py` | Modules & Packages 1 & 2, File Handling, Exceptions 1 & 2 |
+| `08_advanced/` | `advanced.py` | Comprehensions, Decorators, Generators |
 
 ---
 
